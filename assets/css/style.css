@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
 
 *{
     padding: 0;
@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 body {
-    font-family: Roboto, sans-serif;
+    font-family: Lato, sans-serif;
     font-weight: 400;
 }
 /* headings and logo */
@@ -79,7 +79,8 @@ a.active, a:hover {
         padding-left: 50px;
     }
     nav ul li a {
-        font-size: 18px;
+        font-size: 15px;
+        font-weight: 600;
     }
 }
 
