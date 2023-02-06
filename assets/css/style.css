@@ -70,6 +70,9 @@ a.active, a:hover {
     display: none;
 }
 
+/* Media queries */
+
+/* For larger to medium screens size from 1200px wide and down */
 @media (max-width: 1200px) {
     h1#logo {
         font-size: 35px;
@@ -80,9 +83,13 @@ a.active, a:hover {
     }
 }
 
+/* For medium screen sizes from 858px wide and down */
 @media (max-width: 858px) {
     .checkbtn {
         display: block;
+    }
+    h1#logo {
+        font-size: 1.5rem;
     }
     ul {
         position: fixed;
@@ -98,7 +105,7 @@ a.active, a:hover {
         display: block;
     }
     nav ul li a {
-        font-size: 20px;
+        font-size: 18px;
         color: #F2EBDE;
 
     }
@@ -109,5 +116,13 @@ a.active, a:hover {
     #check:checked ~ ul {
         left: 0;
     }
+}
+
+/* mountain image */
+
+.mountain-image {
+    background: url(../images/switzerland\ mountain.jpg) no-repeat;
+    background-size: cover;
+    height: calc(100vh - 80px);
 
 }
