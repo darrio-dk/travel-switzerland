@@ -136,6 +136,40 @@ div img {
 .text-box-two p {
     font-size: 20px;
 }
+/* body heading and paragraph zurich city */
+
+.wrapper-three img {
+    max-width: 320px;
+    float: left;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+.text-box h2 {
+    font-size: 42px;
+}
+
+.text-box p {
+    font-size: 20px;
+}
+
+.wrapper-three {
+    margin: 150px auto;
+    width: 70%;
+}
+
+.text-box-three {
+    color: #f2ebde;
+}
+
+.text-box-three h2 {
+    font-size: 42px;
+}
+
+.text-box-three p {
+    font-size: 20px;
+}
 
 /* Media queries */
 
