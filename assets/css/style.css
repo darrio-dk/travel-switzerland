@@ -192,6 +192,20 @@ footer {
     color: #252525
 
 }
+
+/*gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
+}
+
 /* Media queries */
 
 /* For larger to medium screens size from 1200px wide and down */
@@ -204,10 +218,13 @@ footer {
         font-size: 15px;
         font-weight: 600;
     }
+    #photos {
+        column-count: 3;
+    }
 }
 
-/* For medium screen sizes from 858px wide and down */
-@media (max-width: 858px) {
+/* For medium screen sizes from 800px wide and down */
+@media (max-width: 800px) {
     .checkbtn {
         display: block;
     }
@@ -249,26 +266,18 @@ footer {
     #photos {
         column-count: 2;
     }
-}
+    
+    .wrapper > img {
+        max-width: 230px;
+    }
 
-/* mountain image */
-
-.mountain-image {
-    background: url(../images/switzerland\ mountain.jpg) no-repeat;
-    background-size: cover;
-    height: calc(100vh - 80px);
-}
-
-/*gallery */
-
-#photos {
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0;
-}
-
-#photos > img {
-    width: 100%;
+    .wrapper-two > img {
+        max-width: 230px;
+        float: left;
+    }
+    
+    .wrapper-three > img {
+        max-width: 230px;
+    }
 }
 
