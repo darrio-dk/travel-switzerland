@@ -171,6 +171,27 @@ div img {
     font-size: 20px;
 }
 
+/* footer */
+
+footer {
+    margin: 0;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #252525
+
+}
 /* Media queries */
 
 /* For larger to medium screens size from 1200px wide and down */
@@ -227,3 +248,4 @@ div img {
     background-size: cover;
     height: calc(100vh - 80px);
 }
+
