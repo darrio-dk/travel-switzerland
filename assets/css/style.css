@@ -136,7 +136,7 @@ div img {
 .text-box-two p {
     font-size: 20px;
 }
-/* body heading and paragraph zurich city */
+/* body, heading and paragraph zurich city */
 
 .wrapper-three img {
     max-width: 320px;
@@ -173,6 +173,7 @@ div img {
 
 /* footer */
 
+
 footer {
     margin: 0;
 }
@@ -192,6 +193,117 @@ footer {
     color: #252525
 
 }
+
+/*body, heading and paragraph "Fondue"*/
+
+.foodie img {
+    max-width: 320px;
+    float: left;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+.foodie-text h2 {
+    font-size: 42px;
+}
+
+.foodie-text p {
+    font-size: 20px;
+}
+
+.foodie {
+    margin: 150px auto;
+    width: 70%;
+}
+
+.foodie-text {
+    color: #f2ebde;
+}
+
+
+/*body, heading and paragraph "Basel-style roasted flour soup"*/
+
+.foodie-two img {
+    max-width: 320px;
+    float: left;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+.foodie-text-two h2 {
+    font-size: 42px;
+}
+
+.foodie-text-two p {
+    font-size: 20px;
+}
+
+.foodie-two {
+    margin: 150px auto;
+    width: 70%;
+}
+
+.foodie-text-two {
+    color: #f2ebde;
+}
+
+/*body, heading and paragraph "Raclette"*/
+
+.foodie-three img {
+    max-width: 320px;
+    float: left;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+.foodie-text-three h2 {
+    font-size: 42px;
+}
+
+.foodie-text-three p {
+    font-size: 20px;
+}
+
+.foodie-three {
+    margin: 150px auto;
+    width: 70%;
+}
+
+.foodie-text-three {
+    color: #f2ebde;
+}
+
+/*body, heading and paragraph "Tartiflette"*/
+
+.foodie-four img {
+    max-width: 320px;
+    float: left;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+.foodie-text-four h2 {
+    font-size: 42px;
+}
+
+.foodie-text-four p {
+    font-size: 20px;
+}
+
+.foodie-four {
+    margin: 150px auto;
+    width: 70%;
+}
+
+.foodie-text-four {
+    color: #f2ebde;
+}
+
+
 
 /*gallery */
 
@@ -279,5 +391,22 @@ footer {
     .wrapper-three > img {
         max-width: 230px;
     }
+
+    .foodie > img {
+        max-width: 230px;
+    }
+
+    .foodie-two > img {
+        max-width: 230px;
+    }
+
+    .foodie-three > img {
+        max-width: 230px;
+    }
+
+    .foodie-four > img {
+        max-width: 230px;
+    }
 }
+
 
