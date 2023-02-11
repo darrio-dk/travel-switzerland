@@ -1,45 +1,19 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome darrio-dk,
-
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
-
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
+# Travel Switzerland
 ------
+The Travel Switzerland website is desingn for tourists traveling to Switzerland. 
 
-## Release History
+Users can find information about countries cuisine and popular places 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+![Alt text](assets/images/Screenshot%20(15).png)
 
+## Features
+
+- ### Navigation
+
+- - The website navigation based at the top of the page with heading on the left and menu on the right.
+- - The navigation links are designed for desktop, laptop, smaller devices.
+- - The navigation bar have menu for bigger screens and "hamburger" menu for tablet and mobile devices.
+- - The wewbsite navigation colour contrast are 
 **September 1 2021:** Remove `PGHOSTADDR` environment variable.
 
 **July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.

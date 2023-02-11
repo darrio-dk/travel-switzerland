@@ -170,6 +170,10 @@ footer {
 
 #photos > img {
     width: 100%;
+    border-radius: 0;
+    max-width: none;
+    max-height: none;
+    border: none;
 }
 
 /* Media queries */
