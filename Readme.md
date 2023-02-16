@@ -47,20 +47,25 @@ User will find three choises in the menu, the places where to travel, Switzerlan
 ----
     
     - This page was tested with different browsers and it works with: Chrome, Firefox, and Safari.
-    - I've tested this page with devtools device toolbar, this project is responsive and functions to all different screen sizes.
-    - I confirmed that the navigation, header, home, food gallery and footer links are readable and easy to understand.
+    - I've tested this page with devtools device toolbar. 
+    - This project is responsive and functions to all different screen sizes.
+    - I confirmed that the navigation, header, home, food gallery and footer links 
+      are readable and easy to understand.
     
   ## Bugs
 
   ### Solved bugs
 
-    - Using devtools bug were found and fixed on food section with second image not corresponding to different screen sizes
-    - When using Validator test result showed bug on gallery.html in "section" area which provided with missing h1 ore div tag.
+    - Using devtools bug were found and fixed on food section with second image not corresponding 
+      to different screen sizes
+    - When using Validator test result showed bug on gallery.html in "section" area, 
+      which provided with missing h1 ore div tag.
     - Changing section to div tag I have solved the Validator test: div id="photos"
 
    ![Alt text](assets/images/Screenshot%20(40).png)
 
-    - However by solving one bug another one showed up on devtools, gallery section column was not in line with the page.
+    - However by solving one bug another one showed up on devtools, 
+      gallery section column was not in line with the page.
     - With a quick tutor guidance I was able to add max-width, max-height and border to none.
     -  #photos > img {
         width: 100%;
