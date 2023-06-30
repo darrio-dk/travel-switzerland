@@ -3,9 +3,17 @@
 The Travel Switzerland website welcomes user with nice warm background colour. The website is designed for tourists or anybody who loves to travel, it gives brief information about most visited, famous places in Switzerland.
 The website not only describes what user can expect of his chosen place but gives nice images and understanding what is all about.
 
-User will find three choises in the menu, the places where to travel, Switzerlands traditional food and gallery with more pictures for user to make the best decision before their travel.
+User will find three choices in the menu, the places where to travel, Switzerland's traditional food and gallery with more pictures for user to make the best decision before their travel.
 
 ![Alt text](assets/images/Screenshot%20(15).png)
+
+- Wireframe
+
+    - Project wireframes related screenshots
+
+    ![Alt text](<assets/images/WIREFRAME 1&2.png>)
+
+    ![Alt text](<assets/images/WIREFRAME 3.png>)
 
 ## Features 
 ----
@@ -13,7 +21,7 @@ User will find three choises in the menu, the places where to travel, Switzerlan
 - Navigation
 
     - The navigation bar at the top of the page shows main title **Travel Switzerland** in the left corner.
-    - On the right hand side corner other navigation links can be found such as: ***Home***, ***Food***, ***Gallery*** which link to differfent sections of the same page
+    - On the right hand side corner other navigation links can be found such as: ***Home***, ***Food***, ***Gallery*** which link to different sections of the same page
     - The navigation background colour is different from main body, but colour contrast nicely floats together to the users eye. 
     - All the different sections placed in the navigation bar clearly visible and are easy to find.
     - For mobile and tablet devices navigation bar will welcome users with "hamburger" menu, which makes easier for the user to navigate their choice.
@@ -36,7 +44,7 @@ User will find three choises in the menu, the places where to travel, Switzerlan
 
 - The Footer
 
-    - The Footer section includes social media icons to users, they can find Switzerland places on facebook, instagram, twitter and youtube.
+    - The Footer section includes social media icons to users, they can find Switzerland places on Facebook, Instagram, Twitter and Youtube.
     
 ![Alt text](assets/images/home%20page%20s.shot.png)
 ![Alt text](assets/images/Screenshot%20(30).png)
@@ -86,11 +94,11 @@ User will find three choises in the menu, the places where to travel, Switzerlan
 
 - CSS 
     
-    - No errors were returned when passing through the (Jigsaw) validartor
+    - No errors were returned when passing through the (Jigsaw) validator
 
 - Accessibility
     
-    - Running the Lighthouse test on Chrome I confirmed that accesibility reached the valid number
+    - Running the Lighthouse test on Chrome I confirmed that accessibility reached the valid number
     
 ![Alt text](assets/images/Screenshot%20(34).png)
 
@@ -117,7 +125,7 @@ The live link can be found here - [Travel Switzerland](https://darrio-dk.github.
     - Using navigation bar and "hamburger" for my menu - [Responsive Navigation by CodingNepal](https://www.youtube.com/watch?v=oLgtucwjVII)
     - The footer icons were taken from - [Font Awesome](https://fontawesome.com/)
     - Html and CSS issue solver - [Mozilla](https://developer.mozilla.org/en-US/) - [Stack Overflow](https://stackoverflow.com/) - [Geeks For Geeks](https://www.geeksforgeeks.org/)
-    - Using Switzeland food ideas - [Top Food Ideas](https://www.bbcgoodfood.com/howto/guide/top-10-foods-try-switzerland)
+    - Using Switzerland food ideas - [Top Food Ideas](https://www.bbcgoodfood.com/howto/guide/top-10-foods-try-switzerland)
 
 - Media
 
