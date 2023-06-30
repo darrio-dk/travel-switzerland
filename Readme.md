@@ -15,6 +15,12 @@ User will find three choices in the menu, the places where to travel, Switzerlan
 
     ![Alt text](<assets/images/WIREFRAME 3.png>)
 
+- Finished Project screenshot
+
+    - The website three pages screenshot created on one page using Microsoft office.
+
+    ![Alt text](<assets/images/Travel Swit. 3 pages in 1.png>)
+    
 ## Features 
 ----
 
